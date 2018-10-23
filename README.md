@@ -1,2 +1,2 @@
 # learngit
-git
+zy's first git using.
